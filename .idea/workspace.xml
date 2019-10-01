@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fca65f88-0857-492d-b14f-4dc0220e57c8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1QY983DbBahaAT9ZplmNFmnARJ9" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IBM" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fca65f88-0857-492d-b14f-4dc0220e57c8" name="Default Changelist" comment="" />
+      <created>1567936499701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567936499701</updated>
+      <workItem from="1567936501097" duration="6715000" />
+      <workItem from="1568001627501" duration="11595000" />
+      <workItem from="1568027173733" duration="1301000" />
+      <workItem from="1568166501254" duration="5942000" />
+      <workItem from="1568176015124" duration="17820000" />
+      <workItem from="1568251779666" duration="20235000" />
+      <workItem from="1568278756003" duration="4671000" />
+      <workItem from="1568427218441" duration="1257000" />
+      <workItem from="1568428679105" duration="370000" />
+      <workItem from="1568441149738" duration="7371000" />
+      <workItem from="1568628243126" duration="5476000" />
+      <workItem from="1568634555678" duration="235000" />
+      <workItem from="1568698296728" duration="14458000" />
+      <workItem from="1568859581986" duration="413000" />
+      <workItem from="1568865905130" duration="25188000" />
+      <workItem from="1569033485088" duration="1726000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
